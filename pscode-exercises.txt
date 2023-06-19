@@ -1,0 +1,52 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+a = 2 
+b= 10 
+sum of the a + b is 10
+
+
+// Exercise 2: Check if a Number is Even or Odd
+# check if a number is even or odd 
+a = 2 
+b = 10 
+if a + b equal to even  
+Print ("Even")
+else: 
+Print ("Odd") 
+
+
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers. 
+  userinputs: [5 random different numbers]   
+  number: 5 
+  number: 7 
+  number: 8 
+  number: 19 
+  number: 20 
+
+b) Calculate the average of the five numbers. 
+Numbers: [5, + 7, + 8, + 19, + 20] 
+sum of the number: 59 
+Average of the five number: 59/5 = 12  
+
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers. 
+   # find the minimum and maximum of the five entered numbers   
+    if find the minimum number:
+    print("minimum number")
+    if find the maximum number
+    print ("maximum number")
+    else:
+    print("not found")
+
+     
+d) Write out the results found from steps b and c with a message describing what they are
+5 different random numberes were combined from users.
+performed addition of those random numbers.
+average them out of by dividing by the total of five numbers.
+
+in step c starting from hash to indicate what we are going to find.
+wrote conditional requirement if met then desire answer.
+
